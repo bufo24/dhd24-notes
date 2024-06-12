@@ -1,4 +1,6 @@
-# Links
+# Mempool
+
+## Links
 
 - [Liquid explorer](https://liquid.network)
 - [Mempool Rust GBT](https://github.com/mempool/mempool/tree/master/rust/gbt)
@@ -7,5 +9,5 @@
 - [Mempool Swag](https://mempool.space/sponsor)
 - [Testnet4 support](https://mempool.space/testnet4)
 
-# Mempool Infrastructure
+## Mempool Infrastructure
 ![Mempool Infrastructure](media/mempool-infra.jpg)
